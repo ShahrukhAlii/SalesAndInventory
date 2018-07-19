@@ -1,0 +1,32 @@
+F:\try\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.exe
+F:\try\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.pdb
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.pdb
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\bin\Debug\skelot.exe
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\bin\Debug\skelot.pdb
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\salesAndInventory.csprojResolveAssemblyReference.cache
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.AdminView.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.AuditTrail.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmUpdateLimit.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmAddManufac.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmCriticalItems.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmLogin.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmAddProduct.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmNotes.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmNotes2.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmReceiveCrit.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmRecordCashier.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.FrmAdminLogin.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.FrmAdminMenu.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmStart.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmRecordSales.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmManageUser.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.frmUserLog.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.ItemReport.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.LoginTrail.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.ReceiveOrder.resources
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.GenerateResource.Cache
+C:\Users\3tee system\Desktop\salesandinventory\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.exe
